@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/prismarine_bricks",
+	"textures": {
+		"all": "quark:block/elder_prismarine_bricks"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/crimson_door_inv",
+	"textures": {
+		"top": "biomesoplenty:block/umbran_door_top",
+		"bottom": "biomesoplenty:block/umbran_door_bottom"
+	}
+}

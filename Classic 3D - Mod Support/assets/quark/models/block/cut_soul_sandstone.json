@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/cut_sandstone",
+	"textures": {
+		"side": "quark:block/cut_soul_sandstone",
+		"top": "quark:block/soul_sandstone_top"
+	}
+}

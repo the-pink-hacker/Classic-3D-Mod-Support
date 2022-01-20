@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/spruce_door_bottom_hinge",
+    "textures": {
+        "bottom": "biomesoplenty:block/fir_door_bottom",
+        "particle": "biomesoplenty:block/fir_door_bottom"
+    }
+}

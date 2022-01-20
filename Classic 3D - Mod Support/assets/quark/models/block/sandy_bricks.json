@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/bricks",
+	"textures": {
+		"all": "quark:block/sandy_bricks"
+	}
+}

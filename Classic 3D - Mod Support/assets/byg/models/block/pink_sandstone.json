@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/template_sandstone",
+	"textures": {
+		"side": "byg:block/pink_sandstone",
+		"top": "byg:block/pink_sandstone_top",
+		"bottom": "byg:block/pink_sandstone_bottom"
+	}
+}

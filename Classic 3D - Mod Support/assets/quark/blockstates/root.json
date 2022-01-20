@@ -1,0 +1,44 @@
+{
+    "multipart": [
+      {
+        "when": {
+          "up": "true"
+        },
+        "apply": {
+          "model": "quark:block/root_up"
+        }
+      },
+      {
+        "when": {
+          "north": "true"
+        },
+        "apply": {
+          "model": "quark:block/root_north"
+        }
+      },
+      {
+        "when": {
+          "west": "true"
+        },
+        "apply": {
+          "model": "quark:block/root_west"
+        }
+      },
+      {
+        "when": {
+          "south": "true"
+        },
+        "apply": {
+          "model": "quark:block/root_south"
+        }
+      },
+      {
+        "when": {
+          "east": "true"
+        },
+        "apply": {
+          "model": "quark:block/root_east"
+        }
+      }
+    ]
+  }

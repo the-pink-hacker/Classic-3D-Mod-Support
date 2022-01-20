@@ -1,0 +1,7 @@
+{
+	"parent": "biomesoplenty:block/template_chiseled_sandstone",
+	"textures": {
+		"side": "biomesoplenty:block/chiseled_black_sandstone",
+		"end": "biomesoplenty:block/black_sandstone_top"
+	}
+}

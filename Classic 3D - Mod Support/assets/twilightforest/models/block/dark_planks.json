@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/template_planks",
+	"textures": {
+		"all": "twilightforest:block/wood/planks_darkwood_0"
+	}
+}

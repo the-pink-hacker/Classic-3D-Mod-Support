@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/oak_door_bottom_hinge",
+  "textures": {
+    "bottom": "biomesoplenty:block/dead_door_bottom"
+  }
+}

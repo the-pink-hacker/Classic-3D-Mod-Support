@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/template_copper_block",
+	"textures": {
+		"all": "quark:block/rusty_iron_plate"
+	}
+}

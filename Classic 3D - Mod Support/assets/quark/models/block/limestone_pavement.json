@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/dark_prismarine",
+	"textures": {
+		"all": "quark:block/limestone_pavement"
+	}
+}

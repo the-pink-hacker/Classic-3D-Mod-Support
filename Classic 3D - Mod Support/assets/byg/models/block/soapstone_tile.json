@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/dark_prismarine",
+	"textures": {
+		"all": "byg:block/soapstone_tile"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "shared:block/template_door_bottom",
+	"textures": {
+		"bottom": "biomesoplenty:block/redwood_door_bottom"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/template_nether_bricks",
+	"textures": {
+		"all": "quark:block/blue_nether_bricks"
+	}
+}

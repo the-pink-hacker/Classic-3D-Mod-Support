@@ -1,0 +1,6 @@
+{
+  "parent": "shared:block/template_door_bottom",
+  "textures": {
+    "bottom": "biomesoplenty:block/hellbark_door_bottom"
+  }
+}

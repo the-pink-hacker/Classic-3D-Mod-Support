@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/template_cut_copper_slab_top",
+	"textures": {
+		"all": "quark:block/midori_block"
+	}
+}

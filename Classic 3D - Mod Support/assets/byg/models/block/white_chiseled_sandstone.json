@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/chiseled_red_sandstone",
+	"textures": {
+		"side": "byg:block/white_chiseled_sandstone",
+		"end": "byg:block/white_sandstone_top"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/template_cobblestone",
+	"textures": {
+		"all": "byg:block/dacite_cobblestone"
+	}
+}

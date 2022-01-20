@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/template_log",
+	"textures": {
+		"side": "twilightforest:block/time_log",
+		"top": "twilightforest:block/time_log_top"
+	}
+}

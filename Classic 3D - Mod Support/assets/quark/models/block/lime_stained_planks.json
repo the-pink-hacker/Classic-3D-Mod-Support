@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/template_planks",
+	"textures": {
+		"all": "quark:block/lime_stained_planks"
+	}
+}

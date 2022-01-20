@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/birch_trapdoor_top",
+    "textures": {
+        "texture": "biomesoplenty:block/magic_trapdoor"
+    }
+}

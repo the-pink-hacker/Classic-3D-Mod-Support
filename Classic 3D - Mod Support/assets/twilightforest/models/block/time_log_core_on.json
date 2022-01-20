@@ -1,0 +1,7 @@
+{
+	"parent": "twilightforest:block/time_log_core",
+	"textures": {
+		"side": "twilightforest:block/time_log_core_on",
+		"top": "twilightforest:block/time_log_top"
+	}
+}

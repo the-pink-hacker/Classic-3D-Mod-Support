@@ -1,0 +1,46 @@
+{
+	"parent": "block/thin_block",
+	"textures": {
+		"particle": "biomesoplenty:block/redwood_trapdoor",
+		"texture": "biomesoplenty:block/redwood_trapdoor"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 13],
+			"to": [16, 16, 16],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [16, 16, 0, 0], "texture": "#texture"},
+				"east": {"uv": [16, 3, 0, 0], "rotation": 90, "texture": "#texture", "cullface": "east"},
+				"south": {"uv": [16, 0, 0, 16], "rotation": 180, "texture": "#texture", "cullface": "south"},
+				"west": {"uv": [16, 3, 0, 0], "rotation": 270, "texture": "#texture", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 3], "rotation": 180, "texture": "#texture", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 3], "texture": "#texture", "cullface": "down"}
+			}
+		},
+		{
+			"from": [5, 14, 12.5],
+			"to": [11, 15, 13],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [5, 14, 11, 15], "rotation": 180, "texture": "#texture"},
+				"east": {"uv": [10, 14, 11, 15], "rotation": 90, "texture": "#texture"},
+				"west": {"uv": [5, 14, 6, 15], "rotation": 270, "texture": "#texture"},
+				"up": {"uv": [11, 15, 5, 14], "rotation": 180, "texture": "#texture"},
+				"down": {"uv": [5, 15, 11, 14], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [5, 14, 16],
+			"to": [11, 15, 16.5],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 8]},
+			"faces": {
+				"east": {"uv": [10, 15, 11, 14], "rotation": 90, "texture": "#texture", "cullface": "south"},
+				"south": {"uv": [5, 15, 11, 14], "texture": "#texture", "cullface": "south"},
+				"west": {"uv": [5, 15, 6, 14], "rotation": 270, "texture": "#texture", "cullface": "south"},
+				"up": {"uv": [11, 14, 5, 15], "rotation": 180, "texture": "#texture", "cullface": "south"},
+				"down": {"uv": [5, 14, 11, 15], "texture": "#texture", "cullface": "south"}
+			}
+		}
+	]
+}

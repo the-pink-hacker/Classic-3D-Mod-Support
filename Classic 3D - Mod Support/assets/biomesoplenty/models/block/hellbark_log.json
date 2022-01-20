@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/template_log",
+	"textures": {
+		"side": "biomesoplenty:block/hellbark_log",
+		"top": "biomesoplenty:block/hellbark_log_top"
+	}
+}

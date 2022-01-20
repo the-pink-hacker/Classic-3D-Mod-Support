@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/template_log",
+	"textures": {
+		"side": "biomesoplenty:block/willow_log",
+		"top": "biomesoplenty:block/willow_log_top"
+	}
+}

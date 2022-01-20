@@ -1,0 +1,7 @@
+{
+	"parent": "twilightforest:block/mining_log_core",
+	"textures": {
+		"side": "twilightforest:block/mining_log_core_on",
+		"top": "twilightforest:block/mining_log_top"
+	}
+}

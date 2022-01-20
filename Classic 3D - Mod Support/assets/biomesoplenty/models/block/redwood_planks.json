@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/template_planks",
+	"textures": {
+		"all": "biomesoplenty:block/redwood_planks"
+	}
+}

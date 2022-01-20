@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:block/mycelium",
+	"textures": {
+		"side": "byg:block/glowcelium_side",
+		"top": "byg:block/glowcelium_top",
+		"bottom": "minecraft:block/dirt",
+		"overlay": "byg:block/glowcelium_side_overlay"
+	}
+}

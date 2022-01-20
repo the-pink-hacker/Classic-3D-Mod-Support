@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/sea_lantern",
+	"textures": {
+		"all": "quark:block/elder_sea_lantern"
+	}
+}

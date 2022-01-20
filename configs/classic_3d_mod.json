@@ -1,0 +1,46 @@
+{
+  "directory": "#workdir/Classic 3D - Mod Support",
+  "name_scheme": "\u00A76\u00A7l#name v#version - #mcversion",
+  "curseforge": {
+    "id": "509083",
+    "changelog_type": "markdown-html"
+  },
+  "run_options": {
+    "config": {
+      "configs": "*",
+      "minify_json": true,
+      "delete_empty_folders": true,
+      "zip_pack": true
+    },
+    "dev": {
+      "configs": "?",
+      "minify_json": false,
+      "delete_empty_folders": false,
+      "zip_pack": false,
+      "out_dir": "#packdir",
+      "version": "DEV",
+      "rerun": true
+    }
+  },
+  "configs": {
+    "1.16": {
+      "mc_versions": [
+        "1.16",
+        "1.16.1",
+        "1.16.2",
+        "1.16.3",
+        "1.16.4",
+        "1.16.5"
+      ],
+      "textures": {
+        "delete": true,
+        "ignore": [
+          "classic_3d"
+        ]
+      },
+      "regenerate_meta": true,
+      "minify_json": true,
+      "patches": []
+    }
+  }
+}

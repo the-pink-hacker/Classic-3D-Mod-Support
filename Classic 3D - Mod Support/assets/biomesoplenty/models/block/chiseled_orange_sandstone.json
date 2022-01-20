@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/chiseled_red_sandstone",
+	"textures": {
+		"side": "biomesoplenty:block/chiseled_orange_sandstone",
+		"end": "biomesoplenty:block/orange_sandstone_top"
+	}
+}

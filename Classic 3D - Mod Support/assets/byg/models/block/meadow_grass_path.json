@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/dirt_path",
+	"textures": {
+		"all": "byg:block/meadow_grass_path"
+	}
+}

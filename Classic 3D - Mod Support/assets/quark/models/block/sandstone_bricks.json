@@ -1,0 +1,6 @@
+{
+	"parent": "shared:block/upside_down_bricks",
+	"textures": {
+		"all": "quark:block/sandstone_bricks"
+	}
+}

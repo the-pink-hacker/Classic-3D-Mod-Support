@@ -1,0 +1,6 @@
+{
+	"parent": "shared:block/template_vertical_planks",
+	"textures": {
+		"all": "quark:block/gray_stained_planks"
+	}
+}

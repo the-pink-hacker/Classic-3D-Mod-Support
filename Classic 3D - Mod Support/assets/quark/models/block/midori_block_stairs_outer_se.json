@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/template_cut_copper_stairs_outer_se",
+	"textures": {
+		"all": "quark:block/midori_block"
+	}
+}

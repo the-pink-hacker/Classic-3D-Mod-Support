@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/birch_door_top_hinge",
+	"textures": {
+		"bottom": "biomesoplenty:block/magic_door_bottom",
+		"top": "biomesoplenty:block/magic_door_top",
+		"particle": "biomesoplenty:block/magic_door_bottom"
+	}
+}

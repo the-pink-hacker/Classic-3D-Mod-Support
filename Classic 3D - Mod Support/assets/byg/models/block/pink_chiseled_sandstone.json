@@ -1,0 +1,7 @@
+{
+  "parent": "shared:block/chiseled_sandstone_simple",
+  "textures": {
+    "side": "byg:block/pink_chiseled_sandstone",
+    "top": "byg:block/pink_sandstone_top"
+  }
+}

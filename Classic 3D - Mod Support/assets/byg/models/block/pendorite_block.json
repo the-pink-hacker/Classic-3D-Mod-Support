@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/template_ore_block",
+	"textures": {
+		"all": "byg:block/pendorite_block"
+	}
+}

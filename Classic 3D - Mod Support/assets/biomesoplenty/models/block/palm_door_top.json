@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/oak_door_top",
+	"textures": {
+		"particle": "biomesoplenty:block/palm_door_bottom",
+		"top": "biomesoplenty:block/palm_door_top"
+	}
+}

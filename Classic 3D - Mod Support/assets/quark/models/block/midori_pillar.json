@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/purpur_pillar",
+	"textures": {
+		"side": "quark:block/midori_pillar",
+		"end": "quark:block/midori_pillar_top"
+	}
+}

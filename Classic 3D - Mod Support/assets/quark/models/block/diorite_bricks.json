@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/template_stone_bricks",
+	"textures": {
+		"all": "quark:block/diorite_bricks"
+	}
+}

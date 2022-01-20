@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/oak_trapdoor_top",
+    "textures": {
+        "particle": "biomesoplenty:block/palm_trapdoor"
+    }
+}

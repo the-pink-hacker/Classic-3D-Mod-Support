@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/nether_gold_ore",
+	"textures": {
+		"all": "byg:block/blue_nether_gold_ore"
+	}
+}

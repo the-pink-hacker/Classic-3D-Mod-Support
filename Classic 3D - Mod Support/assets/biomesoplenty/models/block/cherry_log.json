@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/template_log",
+	"textures": {
+		"side": "biomesoplenty:block/cherry_log",
+		"top": "biomesoplenty:block/cherry_log_top"
+	}
+}

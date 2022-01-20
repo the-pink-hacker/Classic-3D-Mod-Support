@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/template_nether_bricks",
+	"textures": {
+		"all": "biomesoplenty:block/mud_bricks"
+	}
+}

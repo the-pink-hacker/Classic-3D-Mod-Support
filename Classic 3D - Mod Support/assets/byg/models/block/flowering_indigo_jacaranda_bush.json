@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/flowering_azalea",
+    "textures": {
+        "top": "byg:block/flowering_indigo_jacaranda_bush_top",
+        "side": "byg:block/flowering_indigo_jacaranda_bush_side",
+        "plant": "byg:block/indigo_jacaranda_bush",
+        "particle": "byg:block/flowering_indigo_jacaranda_bush"
+    }
+}
