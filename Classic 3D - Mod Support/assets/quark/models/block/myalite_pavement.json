@@ -1,5 +1,5 @@
 {
-	"parent": "shared:block/dark_prismarine_tinted",
+	"parent": "minecraft:block/dark_prismarine_tinted",
 	"textures": {
 		"all": "quark:block/myalite_pavement"
 	}

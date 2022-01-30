@@ -1,5 +1,4 @@
 {
-	"credit": "Made/edited by RyanGar46",
 	"parent": "minecraft:block/cube_all",
 	"textures": {
 		"particle": "twilightforest:block/time_log_core",

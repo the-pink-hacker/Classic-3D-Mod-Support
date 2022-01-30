@@ -1,5 +1,5 @@
 {
-	"parent": "shared:block/template_door_inv",
+	"parent": "minecraft:block/template_door_inv",
 	"textures": {
 		"top": "biomesoplenty:block/redwood_door_top",
 		"bottom": "biomesoplenty:block/redwood_door_bottom"

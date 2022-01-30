@@ -1,5 +1,5 @@
 {
-	"parent": "shared:block/template_vertical_planks",
+	"parent": "minecraft:block/template_vertical_planks",
 	"textures": {
 		"all": "quark:block/green_stained_planks"
 	}

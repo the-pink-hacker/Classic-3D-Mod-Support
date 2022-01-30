@@ -1,5 +1,5 @@
 {
-	"parent": "shared:block/template_stone_bricks_tinted",
+	"parent": "minecraft:block/template_stone_bricks_tinted",
 	"textures": {
 		"all": "quark:block/myalite_bricks"
 	}

@@ -1,5 +1,5 @@
 {
-    "parent": "shared:block/bricks_flipped",
+    "parent": "minecraft:block/bricks_flipped",
     "textures": {
         "all": "byg:block/soapstone_bricks"
     }

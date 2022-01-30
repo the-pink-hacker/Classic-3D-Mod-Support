@@ -1,5 +1,5 @@
 {
-  "parent": "shared:block/chiseled_sandstone_simple",
+  "parent": "minecraft:block/chiseled_sandstone_simple",
   "textures": {
     "side": "byg:block/purple_chiseled_sandstone",
     "top": "byg:block/purple_sandstone_top"
