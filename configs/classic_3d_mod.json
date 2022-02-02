@@ -1,15 +1,16 @@
 {
+  "$schema": "https://raw.githubusercontent.com/RyanGar46/resource-pack-packer/main/schema/config.schema.json",
   "directory": "#workdir/Classic 3D - Mod Support",
   "name_scheme": "\u00A76\u00A7l#name v#version - #mcversion",
   "configs": {
     "1.16": {
       "mc_versions": [
-        "1.16",
-        "1.16.1",
-        "1.16.2",
-        "1.16.3",
+        "1.16.5",
         "1.16.4",
-        "1.16.5"
+        "1.16.3",
+        "1.16.2",
+        "1.16.1",
+        "1.16"
       ],
       "textures": {
         "delete": true,
@@ -19,7 +20,19 @@
       },
       "regenerate_meta": true,
       "minify_json": true,
-      "patches": []
+      "patches": [],
+      "dependencies": [
+        {
+          "name": "biomes-o-plenty",
+          "id": 3360574,
+          "assets": ["textures"]
+        },
+        {
+          "name": "oh-the-biomes-youll-go",
+          "id": 3485079,
+          "assets": ["textures"]
+        }
+      ]
     }
   }
 }
