@@ -2,6 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/RyanGar46/resource-pack-packer/main/schema/config.schema.json",
   "directory": "#workdir/Classic 3D - Mod Support",
   "name_scheme": "\u00A76\u00A7l#name v#version - #mcversion",
+  "description": "\u00A7l\u00A7bMade By: §eRyanGar46\n§l§bRequires: §6Classic 3D",
   "configs": {
     "1.16": {
       "mc_versions": [
@@ -18,21 +19,41 @@
           "classic_3d"
         ]
       },
-      "regenerate_meta": true,
       "minify_json": true,
-      "patches": [],
-      "dependencies": [
-        {
-          "name": "biomes-o-plenty",
-          "id": 3360574,
-          "assets": ["textures"]
-        },
-        {
-          "name": "oh-the-biomes-youll-go",
-          "id": 3485079,
-          "assets": ["textures"]
-        }
-      ]
+      "patches": []
     }
+  },
+  "dev": {
+    "mod_dependencies": [
+      {
+        "name": "autoreglib",
+        "project": 250363,
+        "file": 3326041
+      },
+      {
+        "name": "biomes-o-plenty",
+        "project": 220318,
+        "file": 3360574,
+        "assets": ["textures"]
+      },
+      {
+        "name": "oh-the-biomes-youll-go",
+        "project": 247560,
+        "file": 3485079,
+        "assets": ["textures"]
+      },
+      {
+        "name": "quark",
+        "project": 243121,
+        "file": 3642325,
+        "assets": ["textures"]
+      },
+      {
+        "name": "the-twilight-forest",
+        "project": 227639,
+        "file": 3575220,
+        "assets": ["textures"]
+      }
+    ]
   }
 }
