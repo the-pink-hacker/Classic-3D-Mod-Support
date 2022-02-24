@@ -1,5 +1,5 @@
 {
-	"parent": "minecraft:block/repeater_1tick",
+	"parent": "minecraft:block/thin_block",
 	"textures": {
 		"particle": "minecraft:block/smooth_stone",
 		"slab": "minecraft:block/smooth_stone",
