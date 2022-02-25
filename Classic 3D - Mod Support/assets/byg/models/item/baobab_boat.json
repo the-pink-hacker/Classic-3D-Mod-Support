@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_boat",
+  "textures": {
+    "all": "byg:classic_3d/entity/boat/baobab"
+  }
+}

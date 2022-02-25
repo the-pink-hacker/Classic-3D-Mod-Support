@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_boat",
+  "textures": {
+    "all": "biomesoplenty:classic_3d/entity/boat/jacaranda"
+  }
+}
