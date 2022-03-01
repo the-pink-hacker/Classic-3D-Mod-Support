@@ -13,12 +13,6 @@
         "1.16.1",
         "1.16"
       ],
-      "textures": {
-        "delete": true,
-        "ignore": [
-          "classic_3d"
-        ]
-      },
       "minify_json": true,
       "patches": []
     }
@@ -33,26 +27,22 @@
       {
         "name": "biomes-o-plenty",
         "project": 220318,
-        "file": 3360574,
-        "assets": ["textures"]
+        "file": 3360574
       },
       {
         "name": "oh-the-biomes-youll-go",
         "project": 247560,
-        "file": 3485079,
-        "assets": ["textures"]
+        "file": 3485079
       },
       {
         "name": "quark",
         "project": 243121,
-        "file": 3642325,
-        "assets": ["textures"]
+        "file": 3642325
       },
       {
         "name": "the-twilight-forest",
         "project": 227639,
-        "file": 3575220,
-        "assets": ["textures"]
+        "file": 3575220
       }
     ]
   }
