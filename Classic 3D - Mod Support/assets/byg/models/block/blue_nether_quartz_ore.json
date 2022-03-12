@@ -1,6 +1,7 @@
 {
 	"parent": "minecraft:block/nether_quartz_ore",
 	"textures": {
-		"all": "byg:block/blue_nether_quartz_ore"
+		"cube": "byg:block/blue_nether_quartz_ore",
+		"ore": "byg:block/blue_nether_quartz_ore"
 	}
 }
