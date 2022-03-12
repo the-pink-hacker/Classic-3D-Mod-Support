@@ -14,38 +14,36 @@
         "1.16"
       ],
       "minify_json": true,
-      "patches": []
-    }
-  },
-  "dev": {
-    "dependencies": {
-      "curseforge": [
-        {
-          "name": "autoreglib",
-          "project": 250363,
-          "file": 3326041
-        },
-        {
-          "name": "biomes-o-plenty",
-          "project": 220318,
-          "file": 3360574
-        },
-        {
-          "name": "oh-the-biomes-youll-go",
-          "project": 247560,
-          "file": 3485079
-        },
-        {
-          "name": "quark",
-          "project": 243121,
-          "file": 3642325
-        },
-        {
-          "name": "the-twilight-forest",
-          "project": 227639,
-          "file": 3575220
-        }
-      ]
+      "patches": [],
+      "dependencies": {
+        "curseforge": [
+          {
+            "name": "autoreglib",
+            "project": 250363,
+            "file": 3326041
+          },
+          {
+            "name": "biomes-o-plenty",
+            "project": 220318,
+            "file": 3360574
+          },
+          {
+            "name": "oh-the-biomes-youll-go",
+            "project": 247560,
+            "file": 3485079
+          },
+          {
+            "name": "quark",
+            "project": 243121,
+            "file": 3642325
+          },
+          {
+            "name": "the-twilight-forest",
+            "project": 227639,
+            "file": 3575220
+          }
+        ]
+      }
     }
   }
 }
