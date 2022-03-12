@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/template_nylium",
+	"textures": {
+		"side": "byg:block/sythian_nylium_side",
+		"top": "byg:block/sythian_nylium_top",
+		"bottom": "minecraft:block/netherrack"
+	}
+}
