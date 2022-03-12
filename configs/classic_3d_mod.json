@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/RyanGar46/resource-pack-packer/main/schema/config.schema.json",
   "directory": "#workdir/Classic 3D - Mod Support",
   "name_scheme": "\u00A76\u00A7l#name v#version - #mcversion",
-  "description": "\u00A7l\u00A7bMade By: §eRyanGar46\n§l§bRequires: §6Classic 3D",
+  "description": "\u00A7l\u00A7bMade By: \u00A7eRyanGar46\n\u00A7l\u00A7bRequires: \u00A76Classic 3D",
   "configs": {
     "1.16": {
       "mc_versions": [
